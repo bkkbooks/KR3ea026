@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ea026/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋右先祖考所撰靈樞識六卷向僅行鈔本琰先君深憾其傳之不遠將為刊本以公於世乃與佶先兄謀命佶琰從家所藏稿本重加訂正未及付梓而先君先兄不幸後先即世不肖等以菲材猥忝先職恆恐是舉之荏苒不果無以仰奉先志會醫黌新開活字局遂俾千賀久證余語瑞信及佶嗣子元昶等更相讎校從活字刷印裝成數部帙庶乎與素問識並行均為讀此經者之津筏雖未能若板本之精善而抑亦先君先兄表章遺書之意歟蓋嘗考之此經與太素經互相參對旨義較然不假旁引曲證者有之從前諸家之說更似駢拇枝指者有之惜當日其書仍未出俾其出先祖考在日其所辨訂補正宜何如也刻已告竣並附著斯言使後學有考焉文久癸亥仲秋孫元佶元琰拜手謹志
+  hash: sha256:8a161c45a6fbcd6687dbe35f34db6aed82a6b27323d21c0521e50724356bf1fc
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ea026_jc_000-d8.h1s1}
+metadata:
+  title: 靈樞識
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea026.xml
+hash: sha256:628170296b7bda5924561e66ed59783cb2d696b07790397c26aff3a8982f514b
