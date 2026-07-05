@@ -16,20 +16,21 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ea026_001.yaml, hash: 'sha256:05e46f783c59915e4f058e62d2c3377e16527b7846105122b65684a00887d428'}
-  - {seq: 2, filename: KR3ea026_002.yaml, hash: 'sha256:7bcdb119adac0a843355115c6c0a4bb30b67bf78995bf25541dfa2cbd1b1dc65'}
-  - {seq: 3, filename: KR3ea026_003.yaml, hash: 'sha256:00db1769f26ca4648613a90e7b46c4c13fcb2ae485c8f7fd55d7807b58891057'}
-  - {seq: 4, filename: KR3ea026_004.yaml, hash: 'sha256:2d174b27bbb3c9c47a2d0a472762f70c6be020dccbe0e19a71b618cfc026a51a'}
-  - {seq: 5, filename: KR3ea026_005.yaml, hash: 'sha256:f8c676b7bb42640571a1dadb1e418f11418622dfac6432a71d83ad8462892c27'}
-  - {seq: 6, filename: KR3ea026_006.yaml, hash: 'sha256:3af740b1238ca1046ca4ec9c191bfa390e2c14da4e16b21b30993a45fa907c89'}
+  - {seq: 1, filename: KR3ea026_001.yaml, hash: 'sha256:7c03046830da8ab329db3534475972c2f1d11adf05d060b4de171204b85160df'}
+  - {seq: 2, filename: KR3ea026_002.yaml, hash: 'sha256:e8a95108d81404f980b655ccb87749b888fd1b3ed52f2c14d44660738941963f'}
+  - {seq: 3, filename: KR3ea026_003.yaml, hash: 'sha256:d074dca505912bc333677b1769ed8ef8e419d4bb8f9a46c6a5f12e097d0fb913'}
+  - {seq: 4, filename: KR3ea026_004.yaml, hash: 'sha256:31b16d42229ea933025d6b99576d5214ff2f6b8edf240f723998d1b1eb5a3cab'}
+  - {seq: 5, filename: KR3ea026_005.yaml, hash: 'sha256:a48293c74c1b97cdc83364f4fede40eb6821a571be80befd6da17cdf88a2b405'}
+  - {seq: 6, filename: KR3ea026_006.yaml, hash: 'sha256:e33116a253b9060d027cc83bdb9ee5a9502733d682140d9a6d1f64fa6261874c'}
   - {seq: 0, filename: KR3ea026_000.yaml, hash: 'sha256:628170296b7bda5924561e66ed59783cb2d696b07790397c26aff3a8982f514b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ea026_001.markers.yaml, hash: 'sha256:365332ee7b7f114b62408facc843f9df3acdfedcc304be803e6d102c9b13a759'}
-  - {seq: 2, role: markers, filename: assets/KR3ea026_002.markers.yaml, hash: 'sha256:b7db30fd196935c0db7fb4923053df865a51a5321d6812e23ecdcdf6975fb324'}
-  - {seq: 3, role: markers, filename: assets/KR3ea026_003.markers.yaml, hash: 'sha256:cceacdaa927eb7e7d1d709a572056b0e851fd234b0d9cfa900313062ebbbcf33'}
-  - {seq: 4, role: markers, filename: assets/KR3ea026_004.markers.yaml, hash: 'sha256:441150c593c57c2966077110493eb5c4eb56ad324ab12333f32d12c981274635'}
-  - {seq: 5, role: markers, filename: assets/KR3ea026_005.markers.yaml, hash: 'sha256:7b6d7fc328bfddba76e29ce92dae2b760ddca9c82113ac1c135fafc57b84e101'}
-  - {seq: 6, role: markers, filename: assets/KR3ea026_006.markers.yaml, hash: 'sha256:27a526d973afb023f5e07377d22696d58c422e5423b1fe5af993617c28ac71b3'}
+  - {seq: 1, role: markers, filename: assets/KR3ea026_001.markers.yaml, hash: 'sha256:72da3bfb973a824e26af00f6faf6d17281bde63444d8e6db6647604cd1093b34'}
+  - {seq: 2, role: markers, filename: assets/KR3ea026_002.markers.yaml, hash: 'sha256:22f5df67450299643f489d821d5a9cc71fea195f7d6118d16996c8b67e1a4857'}
+  - {seq: 3, role: markers, filename: assets/KR3ea026_003.markers.yaml, hash: 'sha256:6f0793f67eba683b201f0945eef292697153701df686b22ce680baafb4252970'}
+  - {seq: 4, role: markers, filename: assets/KR3ea026_004.markers.yaml, hash: 'sha256:f33714c0c8e00c52633fc2d7e6a422b2b4f6e31fcb495a6183297903d8e4232a'}
+  - {seq: 5, role: markers, filename: assets/KR3ea026_005.markers.yaml, hash: 'sha256:8db0a958c93edbf9b7ef9a3d3a0418cfe8b65a7064de3e64219b641c9767acf0'}
+  - {seq: 6, role: markers, filename: assets/KR3ea026_006.markers.yaml, hash: 'sha256:4c01863346dde52742ce5b870735fa9b689634cb74a92eb54375cb5fef1e7e39'}
+  - {seq: 0, role: markers, filename: assets/KR3ea026_000.markers.yaml, hash: 'sha256:2b7ed84921d2e8899850c6a696cc910261b6a4b0267ae708576f19d68bbd41cb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -911,7 +912,4 @@ table_of_contents:
   label: 跋
   type: section
   level: 1
-hash: sha256:e7e1aa7394d980549bcd1e2865a6faded5554d53f246886fc1b77aed96534c83
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a642f5b568522946fda6d013d82a5938b871b0df7ef92a496ebda6620012e1c6
